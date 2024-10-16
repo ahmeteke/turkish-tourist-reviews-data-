@@ -1,8 +1,10 @@
 # turkish-tourist-reviews-data
 Bu veri seti doktora tez araştırması için TripAdvisor dan derlenerek oluşturulmuştur.
-Araştırmacıları akademik ve ticari olmayan araştırmalarda kullanılmak üzere;
-(duygu analizi, turizmle ilgili metin madenciliği veya Türkçe metinlerde teknik konular)
-gibi konularda bu veri setini kullanmaya teşvik ediyoruz.
+Araştırmacıları akademik ve ticari olmayan araştırmalarda kullanılmak üzere,
+(duygu analizi, turizmle ilgili metin madenciliği veya Türkçe metinlerde teknik konular gibi araştırmalarda)
+veri setini kullanmaya teşvik ediyoruz.
+
+Veri seti linki: https://drive.google.com/file/d/1JRMgA6hMJILpLRRcKGmMBZKc72fy3yNZ/view?usp=sharing
 
 Bu veri seti yalnızca ticari olmayan araştırma amaçları için kullanıma sunulmuştur. Veri setinin ticari amaçlı kullanımı veya paraya çevrilmesi kesinlikle yasaktır.
 Eğer bu veri setini araştırmanızda kullanıyorsanız lütfen aşağıdaki çalışmalardan birine atıfta bulununuz:
